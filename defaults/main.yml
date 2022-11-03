@@ -623,3 +623,7 @@ openjdk_checksums:
       windows_x64: sha256:169b7975e01bd6573062d29a5f2a1c7c4b659ada9de69c4a63328f2936d0f3f9
       # https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9/OpenJDK16U-jre_x86-32_windows_hotspot_16.0.1_9.zip
       windows_x86-32: sha256:b58fa948e50d1822c50bf45cc34e58eaf4018e0ae41d0221746313077ac336fe
+  '2021-05-07-13-31':
+    jdk:
+      # https://github.com/AdoptOpenJDK/openjdk17-binaries/releases/download/jdk-2021-05-07-13-31/OpenJDK-jdk_x64_linux_hotspot_2021-05-06-23-30.tar.gz
+      linux_x64: sha256:01343d891b63c03bf00eb205987e4816feb25b9249204ebf996ef7cbc94ec4a2
